@@ -62,7 +62,7 @@ major versions.
 
 # AUTHOR
 
-Helmut Wollmersdorfer &lt;helmut.wollmersdorfer@gmail.com>
+Helmut Wollmersdorfer <helmut@wollmersdorfer.at>
 
 <div>
     <a href='http://cpants.cpanauthors.org/author/wollmers'><img src='http://cpants.cpanauthors.org/author/wollmers.png' alt='Kwalitee Score' /></a>
@@ -70,7 +70,7 @@ Helmut Wollmersdorfer &lt;helmut.wollmersdorfer@gmail.com>
 
 # COPYRIGHT
 
-Copyright 2016 Helmut Wollmersdorfer
+Copyright 2016-2020 Helmut Wollmersdorfer
 
 # LICENSE
 
